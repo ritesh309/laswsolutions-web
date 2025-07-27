@@ -10,4 +10,5 @@ export { default as Team } from './Team';
 export { default as Contact } from './Contact';
 export { default as Footer } from './Footer';
 export { default as CallToAction } from './CallToAction';
-export { default as WhyChooseUs } from './WhyChooseUs'; 
+export { default as WhyChooseUs } from './WhyChooseUs';
+export { default as ClientOnly } from './ClientOnly'; 
